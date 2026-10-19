@@ -1,8 +1,8 @@
-# Life OS v2.0 — Data Center Liquid-Cooling CDU Digital Twin
+# Data Center Liquid-Cooling CDU Digital Twin
 
 An interactive engineering simulation and digital-twin-style dashboard for exploring the thermal and electrical behavior of a liquid-cooled data center. The application brings together a coolant distribution unit (CDU), chiller plant, cooling tower, utility power chain, and live outdoor weather in one Streamlit interface.
 
-**Life OS v2.0 数据中心液冷 CDU 数字孪生与仿真系统**<br>
+** 数据中心液冷 CDU 数字孪生与仿真系统**<br>
 面向液冷数据中心的交互式工程仿真仪表板，用于联合观察冷却液分配单元（CDU）、冷水机组、冷却塔、供配电链路与室外气象条件。通过可调参数和实时天气输入，快速分析负载、流量、功耗与能效指标之间的关系。
 
 <img width="1615" height="900" alt="image" src="https://github.com/user-attachments/assets/24700026-4bbd-4a64-a03a-b0bd2e5636f1" />
